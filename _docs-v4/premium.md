@@ -29,7 +29,7 @@ var calendar = new Calendar(calendarEl, {
 });
 ```
 
-But first, you must install the necessary plugins...
+But first, you must install the necessary plugins.
 
 
 ## Package Managers
